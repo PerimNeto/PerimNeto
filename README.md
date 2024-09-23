@@ -27,7 +27,8 @@
 <br>
 <br>
 🤓 Studying
-
+<br>
+<br>
 <div style="display: inline-block;">
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="KOTLIN">
